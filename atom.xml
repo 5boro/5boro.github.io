@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://5boro.github.io/atom.xml" rel="self"/>
   <link href="http://5boro.github.io/"/>
-  <updated>2014-08-06T23:01:14+01:00</updated>
+  <updated>2014-08-06T23:32:43+01:00</updated>
   <id>http://5boro.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,7 @@
     <link href="http://5boro.github.io/blog/2014/08/06/using-octopress/"/>
     <updated>2014-08-06T22:22:01+01:00</updated>
     <id>http://5boro.github.io/blog/2014/08/06/using-octopress</id>
-    <content type="html"><![CDATA[<h1>Octopress is Great</h1>
-
-<h2>Here is why</h2>
+    <content type="html"><![CDATA[<h2>Octopress is great, here is why</h2>
 
 <p>It allows you to shitpost without loosing too much time</p>
 ]]></content>

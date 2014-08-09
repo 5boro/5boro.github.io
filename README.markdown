@@ -1,3 +1,3 @@
-###My personnal website
+###Octopress blog
 
-5boro.github.io
+<https://5boro.github.io>
